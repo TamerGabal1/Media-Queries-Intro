@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+    body{background-color: yellow;}
+}
+
+@media screen and (min-width: 600px){
+    body{background-color:lightblue;}
+}
+
+/* I used the media query to achieve this, adding a light blue background when the screen width is over 600px and yellow when it is less than 600px */
